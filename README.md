@@ -194,23 +194,12 @@ If you use this repository, please cite our paper:
   doi     = {10.1016/j.neucom.2026.133930}
 }
 ```
-
-This work builds on Ham2Pose. Please also cite the original Ham2Pose paper when using this codebase:
-
+or
 ```bibtex
-@inproceedings{shalevarkushin2023ham2pose,
-  title     = {Ham2Pose: Animating Sign Language Notation into Pose Sequences},
-  author    = {Shalev-Arkushin, Rotem and Moryossef, Amit and Fried, Ohad},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages     = {21046--21056},
-  year      = {2023}
+@article{du2026kan,
+  title={KAN Text to Vision? The Exploration of Kolmogorov-Arnold Networks for Multi-Scale Sequence-Based Pose Animation from Sign Language Notation},
+  author={Du, Guanyi and Wang, Lintao and Hu, Kun and Wang, Ziyang},
+  journal={arXiv preprint arXiv:2605.09572},
+  year={2026}
 }
 ```
-
-## Acknowledgements
-
-This repository is based on the original Ham2Pose implementation by Rotem Shalev-Arkushin, Amit Moryossef, and Ohad Fried. We sincerely thank the authors for releasing their code and establishing a strong baseline for HamNoSys-to-pose generation.
-
-## Licence
-
-Please follow the licence terms of the original Ham2Pose repository and the licences of all third-party dependencies and datasets. If you release this repository publicly, we recommend adding a clear `LICENSE` file before publication.
