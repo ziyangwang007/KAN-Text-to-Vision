@@ -1,0 +1,160 @@
+E:\Project\Ham2Pose\venv\Scripts\python.exe E:\Project\Ham2Pose\data\hamnosys\data_test.py
+  0%|          | 1/5752 [00:04<6:37:49,  4.15s/it]Failed to download 10023: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3816049_1.mp4
+  0%|          | 22/5752 [00:28<2:13:19,  1.40s/it]Failed to download 10276: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3960146_1.mp4
+  1%|          | 49/5752 [00:56<1:34:57,  1.00it/s]Failed to download 10818: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3751154_1.mp4
+  1%|          | 56/5752 [01:05<2:02:26,  1.29s/it]Failed to download 10890: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3466138_1.mp4
+  1%|▏         | 82/5752 [01:36<1:52:53,  1.19s/it]Failed to download 11288: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3806359_1.mp4
+  2%|▏         | 92/5752 [01:47<1:34:52,  1.01s/it]Failed to download 11370: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/4005931_1.mp4
+  2%|▏         | 103/5752 [02:00<2:02:56,  1.31s/it]Failed to download 11453: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3973662_1.mp4
+  2%|▏         | 106/5752 [02:04<2:07:18,  1.35s/it]Failed to download 11484: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3478470_1.mp4
+  2%|▏         | 140/5752 [02:42<1:42:00,  1.09s/it]Failed to download 11874: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3812944_1.mp4
+  3%|▎         | 153/5752 [02:56<1:59:21,  1.28s/it]Failed to download 12093: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3813178_1.mp4
+Failed to download 12130: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3811623_1.mp4
+  3%|▎         | 159/5752 [03:03<1:57:53,  1.26s/it]Failed to download 12254: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3813146_1.mp4
+  3%|▎         | 163/5752 [03:08<1:48:07,  1.16s/it]Failed to download 12301: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/4022948_1.mp4
+  3%|▎         | 178/5752 [03:24<1:44:38,  1.13s/it]Failed to download 12500: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3370161_1.mp4
+  3%|▎         | 192/5752 [03:40<1:46:31,  1.15s/it]Failed to download 12715: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3969238_1.mp4
+  4%|▎         | 215/5752 [04:08<1:49:15,  1.18s/it]Failed to download 13016: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3794294_1.mp4
+  4%|▍         | 227/5752 [04:20<1:23:38,  1.10it/s]Failed to download 13141: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3750305_1.mp4
+  4%|▍         | 228/5752 [04:22<1:48:58,  1.18s/it]Failed to download 13173: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3806094_1.mp4
+  4%|▍         | 232/5752 [04:27<1:50:07,  1.20s/it]Failed to download 13267: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3812974_1.mp4
+  4%|▍         | 238/5752 [04:34<2:02:37,  1.33s/it]Failed to download 13443: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3806240_1.mp4
+  4%|▍         | 245/5752 [04:42<1:57:46,  1.28s/it]Failed to download 13636: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3811650_1.mp4
+  5%|▍         | 273/5752 [05:09<1:26:30,  1.06it/s]Failed to download 13943: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3806076_1.mp4
+  5%|▌         | 290/5752 [05:29<1:45:51,  1.16s/it]Failed to download 14136: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3806056_1.mp4
+  5%|▌         | 315/5752 [05:55<1:30:48,  1.00s/it]Failed to download 14489: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3812908_1.mp4
+  6%|▌         | 329/5752 [06:07<1:18:28,  1.15it/s]Failed to download 14643: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3794227_1.mp4
+  6%|▌         | 336/5752 [06:17<2:06:17,  1.40s/it]Failed to download 14731: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3825713_1.mp4
+  6%|▌         | 341/5752 [06:21<1:39:36,  1.10s/it]Failed to download 14867: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3794391_1.mp4
+  6%|▌         | 358/5752 [06:39<1:27:46,  1.02it/s]Failed to download 15137: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3820930_1.mp4
+  7%|▋         | 385/5752 [07:05<1:15:34,  1.18it/s]Failed to download 15440: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3813001_1.mp4
+  7%|▋         | 396/5752 [07:19<1:41:04,  1.13s/it]Failed to download 15532: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3813107_1.mp4
+  7%|▋         | 408/5752 [07:31<1:32:29,  1.04s/it]Failed to download 15673: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3751254_1.mp4
+  7%|▋         | 416/5752 [07:41<2:00:04,  1.35s/it]Failed to download 15751: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3813165_1.mp4
+Failed to download 15773: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3466176_1.mp4
+  7%|▋         | 421/5752 [07:45<1:29:09,  1.00s/it]Failed to download 15794: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/4023056_1.mp4
+  7%|▋         | 424/5752 [07:48<1:28:44,  1.00it/s]Failed to download 15826: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/4006060_1.mp4
+  7%|▋         | 429/5752 [07:56<1:55:32,  1.30s/it]Failed to download 15962: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3967316_1.mp4
+  8%|▊         | 440/5752 [08:06<1:33:53,  1.06s/it]Failed to download 16378: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3821115_1.mp4
+  8%|▊         | 449/5752 [08:16<1:36:03,  1.09s/it]Failed to download 16595: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/4018043_1.mp4
+  8%|▊         | 471/5752 [08:40<1:32:42,  1.05s/it]Failed to download 17265: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3974799_1.mp4
+Failed to download 17186: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3583979_1.mp4
+  8%|▊         | 474/5752 [08:42<1:13:33,  1.20it/s]Failed to download 17310: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3252911_1.mp4
+  8%|▊         | 485/5752 [08:53<1:22:24,  1.07it/s]Failed to download 17594: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3583245_1.mp4
+  8%|▊         | 488/5752 [08:56<1:22:49,  1.06it/s]Failed to download 17518: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3820958_1.mp4
+  9%|▊         | 491/5752 [08:59<1:18:58,  1.11it/s]Failed to download 17618: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3825655_1.mp4
+  9%|▊         | 497/5752 [09:06<1:42:06,  1.17s/it]Failed to download 17847: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3512375_1.mp4
+  9%|▉         | 505/5752 [09:14<1:36:26,  1.10s/it]Failed to download 18003: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3750459_1.mp4
+  9%|▉         | 512/5752 [09:20<1:06:20,  1.32it/s]Failed to download 18171: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3958047_1.mp4
+  9%|▉         | 514/5752 [09:23<1:42:56,  1.18s/it]Failed to download 18227: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3750410_1.mp4
+ 10%|▉         | 566/5752 [10:19<1:38:39,  1.14s/it]Failed to download 2261: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3465966_1.mp4
+ 10%|▉         | 574/5752 [10:27<1:42:59,  1.19s/it]Failed to download 2316: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3966212_1.mp4
+ 12%|█▏        | 662/5752 [12:05<1:29:20,  1.05s/it]Failed to download 2593: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3820897_1.mp4
+ 13%|█▎        | 734/5752 [13:14<1:23:10,  1.01it/s]Failed to download 27428: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3806369_1.mp4
+ 13%|█▎        | 736/5752 [13:17<1:46:56,  1.28s/it]Failed to download 27521: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3987910_1.mp4
+ 13%|█▎        | 761/5752 [13:45<1:44:54,  1.26s/it]Failed to download 2832: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/4006852_1.mp4
+ 14%|█▍        | 834/5752 [15:03<1:39:49,  1.22s/it]Failed to download 30372: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3253280_1.mp4
+ 15%|█▍        | 841/5752 [15:12<1:55:53,  1.42s/it]Failed to download 30511: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3966191_1.mp4
+Failed to download 30531: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3803265_1.mp4
+ 15%|█▍        | 861/5752 [15:33<1:23:38,  1.03s/it]Failed to download 30975: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3821143_1.mp4
+ 15%|█▌        | 866/5752 [15:38<1:35:22,  1.17s/it]Failed to download 3108: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3751145_1.mp4
+ 15%|█▌        | 885/5752 [15:55<1:22:27,  1.02s/it]Failed to download 31699: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/4008579_1.mp4
+ 15%|█▌        | 889/5752 [16:00<1:37:31,  1.20s/it]Failed to download 3179: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3970051_1.mp4
+ 16%|█▌        | 896/5752 [16:07<1:25:05,  1.05s/it]Failed to download 32036: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3972121_1.mp4
+ 16%|█▌        | 898/5752 [16:09<1:11:14,  1.14it/s]Failed to download 3203: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3820941_1.mp4
+ 16%|█▌        | 924/5752 [16:35<1:24:38,  1.05s/it]Failed to download 3473: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3498908_1.mp4
+Failed to download 3452: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3825660_1.mp4
+ 16%|█▌        | 931/5752 [16:42<1:23:50,  1.04s/it]Failed to download 3532: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3826528_1.mp4
+ 16%|█▋        | 941/5752 [16:52<1:16:39,  1.05it/s]Failed to download 36811: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3370047_1.mp4
+ 17%|█▋        | 958/5752 [17:09<1:20:52,  1.01s/it]Failed to download 39514: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3825590_1.mp4
+ 17%|█▋        | 981/5752 [17:38<1:46:44,  1.34s/it]Failed to download 40242: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3513706_1.mp4
+ 17%|█▋        | 984/5752 [17:39<1:15:47,  1.05it/s]Failed to download 40605: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3476391_1.mp4
+ 17%|█▋        | 1001/5752 [17:55<1:24:10,  1.06s/it]Failed to download 41623: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3800252_1.mp4
+ 18%|█▊        | 1007/5752 [18:01<1:13:25,  1.08it/s]Failed to download 42055: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3960391_1.mp4
+ 18%|█▊        | 1037/5752 [18:31<1:07:58,  1.16it/s]Failed to download 43834: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3977099_1.mp4
+ 18%|█▊        | 1040/5752 [18:35<1:23:09,  1.06s/it]Failed to download 43936: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3252569_1.mp4
+ 19%|█▊        | 1072/5752 [19:08<1:19:31,  1.02s/it]Failed to download 45153: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3821167_1.mp4
+ 19%|█▉        | 1083/5752 [19:19<1:29:30,  1.15s/it]Failed to download 45582: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3513734_1.mp4
+ 19%|█▉        | 1110/5752 [19:49<1:19:50,  1.03s/it]Failed to download 46704: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3466072_1.mp4
+ 19%|█▉        | 1113/5752 [19:51<1:07:38,  1.14it/s]Failed to download 46706: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3466068_1.mp4
+Failed to download 47381: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3750361_1.mp4
+ 20%|█▉        | 1132/5752 [20:09<1:10:40,  1.09it/s]Failed to download 48259: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3993649_1.mp4
+ 20%|█▉        | 1142/5752 [20:19<1:30:12,  1.17s/it]Failed to download 48465: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3821044_1.mp4
+ 20%|█▉        | 1148/5752 [20:25<1:41:32,  1.32s/it]Failed to download 48604: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3868204_1.mp4
+ 20%|██        | 1155/5752 [20:31<1:02:34,  1.22it/s]Failed to download 48809: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/4022940_1.mp4
+ 20%|██        | 1157/5752 [20:35<1:37:03,  1.27s/it]Failed to download 48962: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3812884_1.mp4
+ 20%|██        | 1159/5752 [20:38<1:50:41,  1.45s/it]Failed to download 49029: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3466089_1.mp4
+ 20%|██        | 1165/5752 [20:44<1:16:07,  1.00it/s]Failed to download 49250: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3995838_1.mp4
+ 21%|██        | 1198/5752 [21:27<1:44:43,  1.38s/it]Failed to download 52477: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3751208_1.mp4
+Failed to download 52561: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/4016899_1.mp4
+ 21%|██        | 1208/5752 [21:38<1:51:39,  1.47s/it]Failed to download 53226: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3812733_1.mp4
+ 21%|██        | 1213/5752 [21:44<1:41:59,  1.35s/it]Failed to download 5333: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3478551_1.mp4
+ 21%|██        | 1221/5752 [21:54<1:37:29,  1.29s/it]Failed to download 5381: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3370154_1.mp4
+ 21%|██▏       | 1223/5752 [21:56<1:20:25,  1.07s/it]Failed to download 5408: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3806345_1.mp4
+ 21%|██▏       | 1230/5752 [22:03<1:22:18,  1.09s/it]Failed to download 5471: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/4022908_1.mp4
+ 21%|██▏       | 1234/5752 [22:09<1:54:39,  1.52s/it]Failed to download 5492: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3825575_1.mp4
+ 22%|██▏       | 1249/5752 [22:29<1:36:24,  1.28s/it]Failed to download 5586: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3582674_1.mp4
+ 22%|██▏       | 1257/5752 [22:40<1:52:14,  1.50s/it]Failed to download 5686: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3920071_1.mp4
+ 22%|██▏       | 1277/5752 [23:08<1:25:00,  1.14s/it]Failed to download 58917: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3867130_1.mp4
+ 22%|██▏       | 1282/5752 [23:14<1:24:56,  1.14s/it]Failed to download 5916: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3806321_1.mp4
+ 22%|██▏       | 1294/5752 [23:29<1:47:33,  1.45s/it]Failed to download 59481: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3400109_1.mp4
+ 23%|██▎       | 1310/5752 [23:50<1:48:43,  1.47s/it]Failed to download 60755: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3794472_1.mp4
+ 23%|██▎       | 1321/5752 [24:03<1:06:58,  1.10it/s]Failed to download 61419: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3869017_1.mp4
+ 24%|██▎       | 1352/5752 [24:44<1:21:40,  1.11s/it]Failed to download 6248: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3974964_1.mp4
+ 24%|██▎       | 1360/5752 [24:56<1:47:17,  1.47s/it]Failed to download 6321: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3466061_1.mp4
+ 24%|██▍       | 1393/5752 [25:37<1:10:06,  1.04it/s]Failed to download 65293: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/4017656_1.mp4
+ 24%|██▍       | 1395/5752 [25:40<1:13:35,  1.01s/it]Failed to download 65326: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3271525_1.mp4
+Failed to download 6531: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3813142_1.mp4
+ 24%|██▍       | 1408/5752 [25:55<1:23:36,  1.15s/it]Failed to download 66982: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3806394_1.mp4
+ 25%|██▍       | 1431/5752 [26:26<1:58:04,  1.64s/it]Failed to download 68322: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3423137_1.mp4
+ 25%|██▍       | 1434/5752 [26:27<1:06:23,  1.08it/s]Failed to download 6846: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3750519_1.mp4
+ 25%|██▍       | 1435/5752 [26:29<1:25:12,  1.18s/it]Failed to download 68491: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3750420_1.mp4
+ 25%|██▌       | 1442/5752 [26:40<1:43:10,  1.44s/it]Failed to download 68699: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3825688_1.mp4
+ 25%|██▌       | 1448/5752 [26:49<1:58:28,  1.65s/it]Failed to download 68944: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3369964_1.mp4
+ 25%|██▌       | 1456/5752 [26:56<1:19:29,  1.11s/it]Failed to download 69225: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3750432_1.mp4
+ 26%|██▌       | 1476/5752 [27:19<1:10:26,  1.01it/s]Failed to download 71051: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3478850_1.mp4
+ 26%|██▌       | 1481/5752 [27:27<1:35:39,  1.34s/it]Failed to download 13845: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3370117_1.mp4
+ 26%|██▌       | 1486/5752 [27:33<1:14:05,  1.04s/it]Failed to download 71906: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3989901_1.mp4
+ 26%|██▌       | 1487/5752 [27:34<1:19:48,  1.12s/it]Failed to download 71925: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3989883_1.mp4
+ 26%|██▌       | 1492/5752 [27:40<1:18:33,  1.11s/it]Failed to download 72265: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3813018_1.mp4
+ 26%|██▌       | 1499/5752 [27:49<1:46:00,  1.50s/it]Failed to download 72454: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3813247_1.mp4
+ 26%|██▋       | 1515/5752 [28:08<1:12:21,  1.02s/it]Failed to download 73051: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3867120_1.mp4
+ 27%|██▋       | 1525/5752 [28:20<1:34:15,  1.34s/it]Failed to download 73657: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3825651_1.mp4
+Failed to download 7377: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3750889_1.mp4
+ 27%|██▋       | 1541/5752 [28:40<1:29:20,  1.27s/it]Failed to download 74474: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3295102_1.mp4
+ 27%|██▋       | 1555/5752 [28:58<1:25:26,  1.22s/it]Failed to download 75452: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3508818_1.mp4
+ 28%|██▊       | 1604/5752 [30:02<1:22:44,  1.20s/it]Failed to download 78476: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3868860_1.mp4
+ 28%|██▊       | 1606/5752 [30:03<1:02:51,  1.10it/s]Failed to download 78926: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3960378_1.mp4
+Failed to download 7869: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3867267_1.mp4
+ 28%|██▊       | 1622/5752 [30:26<1:50:03,  1.60s/it]Failed to download 7940: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3805969_1.mp4
+ 28%|██▊       | 1630/5752 [30:35<1:25:11,  1.24s/it]Failed to download 80025: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3370057_1.mp4
+Failed to download 80133: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3817876_1.mp4
+ 29%|██▉       | 1671/5752 [31:24<1:07:10,  1.01it/s]Failed to download 83959: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3867217_1.mp4
+ 29%|██▉       | 1678/5752 [31:33<1:23:22,  1.23s/it]Failed to download 8458: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3805137_1.mp4
+ 29%|██▉       | 1686/5752 [31:42<1:20:13,  1.18s/it]Failed to download 85437: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3813081_1.mp4
+ 29%|██▉       | 1691/5752 [31:48<1:33:11,  1.38s/it]Failed to download 85789: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3294591_1.mp4
+ 29%|██▉       | 1694/5752 [31:52<1:46:23,  1.57s/it]Failed to download 8597: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3826015_1.mp4
+ 30%|██▉       | 1712/5752 [32:13<1:32:58,  1.38s/it]Failed to download 87055: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3959725_1.mp4
+ 30%|██▉       | 1721/5752 [32:26<1:52:58,  1.68s/it]Failed to download 87255: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3466020_1.mp4
+ 30%|███       | 1729/5752 [32:34<1:05:47,  1.02it/s]Failed to download 87703: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/4005749_1.mp4
+ 30%|███       | 1746/5752 [32:55<1:04:41,  1.03it/s]Failed to download 88206: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3583204_1.mp4
+ 31%|███       | 1756/5752 [33:10<1:43:12,  1.55s/it]Failed to download 88638: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3466189_1.mp4
+ 31%|███       | 1758/5752 [33:13<1:39:13,  1.49s/it]Failed to download 88642: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3867030_1.mp4
+Failed to download 88706: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3811517_1.mp4
+ 31%|███       | 1766/5752 [33:22<1:32:06,  1.39s/it]Failed to download 88938: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3805299_1.mp4
+ 31%|███       | 1783/5752 [33:43<1:17:31,  1.17s/it]Failed to download 9012: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3253258_1.mp4
+ 31%|███▏      | 1807/5752 [34:14<1:26:03,  1.31s/it]Failed to download 91462: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3813053_1.mp4
+ 32%|███▏      | 1827/5752 [34:39<1:19:07,  1.21s/it]Failed to download 92640: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3805956_1.mp4
+ 32%|███▏      | 1847/5752 [35:02<59:31,  1.09it/s]  Failed to download 9372: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3294459_1.mp4
+ 32%|███▏      | 1850/5752 [35:06<1:09:58,  1.08s/it]Failed to download 9389: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3825817_1.mp4
+ 32%|███▏      | 1869/5752 [35:27<1:34:16,  1.46s/it]Failed to download 9615: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3466132_1.mp4
+ 33%|███▎      | 1882/5752 [35:43<1:23:02,  1.29s/it]Failed to download 9721: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3476414_1.mp4
+ 33%|███▎      | 1884/5752 [35:46<1:26:10,  1.34s/it]Failed to download 9765: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3794345_1.mp4
+ 33%|███▎      | 1903/5752 [36:09<1:18:06,  1.22s/it]Failed to download 9884: 404 Client Error: Not Found for url: https://www.sign-lang.uni-hamburg.de/korpusdict/clips/3751257_1.mp4
+100%|██████████| 5752/5752 [2:31:23<00:00,  1.58s/it]
+Traceback (most recent call last):
+  File "E:\Project\Ham2Pose\data\hamnosys\data_test.py", line 62, in <module>
+    failed_files.close()
+NameError: name 'failed_files' is not defined
+
+Process finished with exit code 1

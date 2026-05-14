@@ -1,0 +1,43 @@
+base_config: multiscale_kan.yaml
+generated_dir: configs/generated
+
+experiments:
+  - name: paper-baseline
+    overrides:
+      model_variant: baseline
+      text_encoder_type: transformer
+      text_pose_encoder_type: transformer
+      pose_projection_type: linear
+      model_name: paper-baseline
+
+  - name: paper-text-kan
+    overrides:
+      model_variant: baseline
+      text_encoder_type: kan
+      text_pose_encoder_type: transformer
+      pose_projection_type: linear
+      model_name: paper-text-kan
+
+  - name: paper-textpose-kan
+    overrides:
+      model_variant: baseline
+      text_encoder_type: transformer
+      text_pose_encoder_type: kan
+      pose_projection_type: linear
+      model_name: paper-textpose-kan
+
+  - name: paper-multiscale-kan
+    overrides:
+      model_variant: multiscale
+      text_encoder_type: transformer
+      text_pose_encoder_type: kan
+      pose_projection_type: linear
+      model_name: paper-multiscale-kan
+
+  - name: paper-multiscale-kanprojection
+    overrides:
+      model_variant: multiscale
+      text_encoder_type: transformer
+      text_pose_encoder_type: kan
+      pose_projection_type: kan
+      model_name: paper-multiscale-kanprojection

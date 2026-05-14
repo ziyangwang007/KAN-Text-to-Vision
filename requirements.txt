@@ -1,0 +1,22 @@
+fastdtw==0.3.4
+fontTools==4.37.4
+lxml==4.9.1
+matplotlib==3.5.3
+numpy==1.21.5
+opencv_python==4.5.5.64
+pandas
+Pillow==9.2.0
+pose_format==0.1.2
+pytorch_lightning==1.5.10
+scikit_learn
+scipy==1.7.3
+sign_language_datasets==0.0.6
+scikit-image
+tensorflow==2.10.0
+torch
+torchvision
+tqdm==4.64.1
+transformers==4.22.2
+youtube_dl==2021.12.17
+wandb
+# pip install --force-reinstall -v protobuf==3.20.3
